@@ -1,6 +1,7 @@
 # Cyberpunk TODO App - React Native + Node.js/Redis
 
-![App Screenshot](screenshot.png) <!-- Add a screenshot if available -->
+![image](https://github.com/user-attachments/assets/dd4e56f6-5465-461d-8e65-002ea0904dde)
+
 
 A futuristic TODO list application with React Native frontend and Node.js/Redis backend, featuring cyberpunk styling and full CRUD operations with cloud sync.
 
